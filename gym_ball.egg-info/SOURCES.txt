@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+gym_ball.egg-info/PKG-INFO
+gym_ball.egg-info/SOURCES.txt
+gym_ball.egg-info/dependency_links.txt
+gym_ball.egg-info/requires.txt
+gym_ball.egg-info/top_level.txt
